@@ -82,7 +82,7 @@ export default function App() {
 
 
     try {
-      const response = await fetch('https://formspree.io/f/xyzgkqbn', {
+      const response = await fetch('https://formspree.io/f/xrbroevl', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
